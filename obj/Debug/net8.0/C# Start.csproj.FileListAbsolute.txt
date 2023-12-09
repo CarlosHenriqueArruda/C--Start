@@ -12,3 +12,4 @@ C:\Users\carlo\OneDrive\Documentos\C# Start\obj\Debug\net8.0\refint\C# Start.dll
 C:\Users\carlo\OneDrive\Documentos\C# Start\obj\Debug\net8.0\C# Start.pdb
 C:\Users\carlo\OneDrive\Documentos\C# Start\obj\Debug\net8.0\C# Start.genruntimeconfig.cache
 C:\Users\carlo\OneDrive\Documentos\C# Start\obj\Debug\net8.0\ref\C# Start.dll
+C:\Users\carlo\OneDrive\Documentos\C# Start\obj\Debug\net8.0\C# Start.sourcelink.json
