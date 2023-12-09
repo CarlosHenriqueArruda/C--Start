@@ -10,7 +10,6 @@ using C__Start.Models;
 
 Calculadora calc = new Calculadora();
 
-calc.Somar(5,5);
-calc.Subtrair(5,5);
-calc.Multiplicar(5,5);
-calc.Dividir(5,5);
+calc.Seno(30);
+calc.Coseno(30);
+calc.Tangente(30);

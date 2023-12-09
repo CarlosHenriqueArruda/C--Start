@@ -23,5 +23,29 @@ namespace C__Start.Models
         {
             Console.WriteLine($"{x} / {y} = {x/y}");
         }
+        public void Potencia(int x,int y)
+        {
+            double potencia = Math.Pow(x,y);
+            Console.WriteLine($"{x}^{y} = {potencia}");
+        }
+        public void Seno(double angulo)
+        {
+            double radiano = angulo*Math.PI / 180;
+            double seno = Math.Sin(radiano);
+            Console.WriteLine($"Seno de {angulo}° = {Math.Round(seno,4)}.");
+        }
+        public void Coseno(double angulo)
+        {
+            double radiano = angulo*Math.PI / 180;
+            double cos = Math.Cos(radiano);
+            Console.WriteLine($"Coseno de {angulo}° = {Math.Round(cos,4)}.");
+        }
+                public void Tangente(double angulo)
+        {
+            double radiano = angulo*Math.PI / 180;
+            double tan = Math.Tan(radiano);
+            Console.WriteLine($"Tangente de {angulo}° = {Math.Round(tan,4)}.");
+        }
+        
     }
 }
