@@ -1,15 +1,37 @@
-﻿// using C__Start.Models;
+﻿string opção;
 
-// Pessoa pessoa1 = new Pessoa();
+while(true)
+{
+    Console.Clear();
+    Console.WriteLine("Digite sua opção:");
+    Console.WriteLine("1 - Cadastrar");
+    Console.WriteLine("2 - Buscar");
+    Console.WriteLine("3 - Apagar");
+    Console.WriteLine("4 - Encerrar");
 
-// pessoa1.Nome= "Carlos";
-// pessoa1.Idade= 23;
-// pessoa1.Apresentar();
+    opção = Console.ReadLine();
 
-using C__Start.Models;
+    switch(opção)
+    {
+        case "1":
+            Console.WriteLine("Cadastro de Cliente");
+            break;
 
-Calculadora calc = new Calculadora();
+        case "2":
+            Console.WriteLine("Busca de Cliente");
+            break;
 
-calc.Seno(30);
-calc.Coseno(30);
-calc.Tangente(30);
+        case "3":
+            Console.WriteLine("Apagar Cliente");
+            break;
+
+        case "4":
+            Console.WriteLine("Encerrarando...");
+            Environment.Exit(0);
+            break;
+
+        default:
+            Console.WriteLine("Opção Invalida!");
+            break;
+    }
+}
