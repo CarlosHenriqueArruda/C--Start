@@ -56,6 +56,7 @@ namespace PMC.Models
                 {
                     throw new ArgumentException("A idade não pode ser menor que: 0");
                 }
+                _idade = value;
             }
         }
 
