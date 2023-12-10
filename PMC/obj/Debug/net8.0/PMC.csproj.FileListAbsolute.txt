@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\bin\Debug\net8.0\PMC.exe
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\bin\Debug\net8.0\PMC.deps.json
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\bin\Debug\net8.0\PMC.runtimeconfig.json
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\bin\Debug\net8.0\PMC.dll
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\bin\Debug\net8.0\PMC.pdb
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\obj\Debug\net8.0\PMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\obj\Debug\net8.0\PMC.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\obj\Debug\net8.0\PMC.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\obj\Debug\net8.0\PMC.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\obj\Debug\net8.0\PMC.sourcelink.json
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\obj\Debug\net8.0\PMC.dll
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\obj\Debug\net8.0\refint\PMC.dll
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\obj\Debug\net8.0\PMC.pdb
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\obj\Debug\net8.0\PMC.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Documentos\C# Start\PMC\obj\Debug\net8.0\ref\PMC.dll
