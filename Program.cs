@@ -1,20 +1,28 @@
-﻿int[] array = new int [3];
+﻿List<string> Lista = new List<string>();
 
-array[0] = 1;
-array[1] = 2;
-array[2] = 3;
+Lista.Add("Recife");
+Lista.Add("São paulo");
+Lista.Add("Florianopolis");
 
-for (int i = 0; i < array.Length; i++)
+for(int i = 0; i<Lista.Count; i++)
 {
-    Console.WriteLine(array[i]);
+    Console.WriteLine($"{i} - {Lista[i]}");
 }
 
 
 
 
 
+// int[] array = new int [3];
 
+// array[0] = 1;
+// array[1] = 2;
+// array[2] = 3;
 
+// foreach (int i in array)
+// {
+//     Console.WriteLine(array[i]);
+// }
 
 
 // string opção;
