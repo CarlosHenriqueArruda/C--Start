@@ -1,9 +1,15 @@
 ﻿using PMC.Models;
 
 
+Pessoa p1 = new Pessoa(nome:"Carlos",sobrenome:"Arruda");
+Pessoa p2 = new Pessoa(nome:"Ranielly",sobrenome:"Arruda");
 
-Pessoa p1 = new Pessoa();
 
-p1.Nome = "Carlos";
-p1.Idade = 23;
-p1.Apresentar();
+Curso cursoDeIngles = new Curso();
+cursoDeIngles.Nome = "Inglês";
+cursoDeIngles.Alunos = new List<Pessoa>();
+
+
+cursoDeIngles.AdicionarAluno(p1);
+cursoDeIngles.AdicionarAluno(p2);
+cursoDeIngles.ListarAlunos();
