@@ -1,21 +1,23 @@
 ﻿
 
-Queue<int> fila = new Queue<int>();
+Dictionary<string,string> carros = new Dictionary<string, string>();
 
-fila.Enqueue(2);
-fila.Enqueue(4);
-fila.Enqueue(6);
-fila.Enqueue(8);
+carros.Add("K34K6","Fiat");
+carros.Add("K34K5","Golf");
+carros.Add("K34K4","Uno");
+carros.Add("K3434","Corola");
+//carros.Remove("K3434");
 
-foreach(int x in fila)
+
+foreach (var x in carros)
 {
-    Console.WriteLine(x);
+    Console.WriteLine($"Numero da placa: {x.Key} - Modelo do carro: {x.Value}");
 }
-fila.Dequeue();
 
-Console.WriteLine("----------");
+Console.WriteLine("-------containsKey------");
 
-foreach(int x in fila)
+carros["K3434"] = "Ferrari";
+foreach (var x in carros)
 {
-    Console.WriteLine(x);
+    Console.WriteLine($"Numero da placa: {x.Key} - Modelo do carro: {x.Value}");
 }

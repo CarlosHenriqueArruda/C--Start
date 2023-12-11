@@ -1,13 +1,13 @@
-﻿List<string> Lista = new List<string>();
+﻿// List<string> Lista = new List<string>();
 
-Lista.Add("Recife");
-Lista.Add("São paulo");
-Lista.Add("Florianopolis");
+// Lista.Add("Recife");
+// Lista.Add("São paulo");
+// Lista.Add("Florianopolis");
 
-for(int i = 0; i<Lista.Count; i++)
-{
-    Console.WriteLine($"{i} - {Lista[i]}");
-}
+// for(int i = 0; i<Lista.Count; i++)
+// {
+//     Console.WriteLine($"{i} - {Lista[i]}");
+// }
 
 
 

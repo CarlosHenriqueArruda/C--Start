@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PMC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+962980d0bda7c9662581a4d0fd3b8b6caa7dba52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57188838a7539e4bbcdf8c4f210e9491434d6055")]
 [assembly: System.Reflection.AssemblyProductAttribute("PMC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PMC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
